@@ -1,10 +1,9 @@
 Welcome to Lumache's documentation!
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+**Student Map** is a Flutter project that has been created to aid students 
+in their first year of University in Portsmouth. Using an *interactive* 
+map and search features, Student Map is here to make your life easier.
 
 Check out the :doc:`usage` section for further information, including
 how to :ref:`installation` the project.
@@ -20,3 +19,4 @@ Contents
 
    usage
    api
+   requirements
